@@ -142,7 +142,7 @@ B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learn
 
 GitHub: https://github.com/Balki07
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+LinkedIn: https://www.linkedin.com/rbalaganesh
 
 ---
 
